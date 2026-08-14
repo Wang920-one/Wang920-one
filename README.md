@@ -25,13 +25,26 @@ Frontend dev on a job hunt. Building with Vue & React day to day, learning AI, a
 ### 📊 GitHub Stats / 数据看板
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Wang920-one&show_icons=true&theme=vue&hide_border=true&include_all_commits=true" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wang920-one&layout=compact&theme=vue&hide_border=true" alt="top languages" />
+  <a href="https://github.com/Wang920-one">
+    <img src="https://api.github-readme-stats.vercel.app/api?username=Wang920-one&show_icons=true&theme=default&hide_border=true&include_all_commits=true&cache_seconds=86400" alt="github stats" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.deno.dev/?user=Wang920-one&theme=vue&hide_border=true" alt="streak stats" />
+  <a href="https://github.com/Wang920-one?tab=repositories">
+    <img src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=Wang920-one&layout=compact&theme=default&hide_border=true&cache_seconds=86400" alt="top languages" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/Wang920-one?tab=overview">
+    <img src="https://streak-stats.deno.dev/?user=Wang920-one&theme=default&hide_border=true" alt="streak stats" />
+  </a>
+</p>
+
+> ⚠️ If stats cards don't load above, click the card area or [view directly](https://github.com/Wang920-one)
+>
+> 如果上方统计卡片未加载，点击卡片区域或[直接查看](https://github.com/Wang920-one)
 
 ### 🚀 Featured Projects / 精选项目
 
@@ -45,8 +58,14 @@ Frontend dev on a job hunt. Building with Vue & React day to day, learning AI, a
 ### 🐍 Contribution Snake / 贡献贪吃蛇
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Wang920-one/Wang920-one/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wang920-one/Wang920-one/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wang920-one/Wang920-one/output/github-contribution-grid-snake.svg?palette=github-light" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Wang920-one/Wang920-one/output/github-contribution-grid-snake.svg?palette=github-light" />
+  </picture>
 </p>
+
+> 🐍 Snake generates after first Actions run · 贪吃蛇在首次 Actions 运行后自动生成
 
 ### 📫 Connect / 联系方式
 
